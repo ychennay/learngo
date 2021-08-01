@@ -26,4 +26,5 @@ func main() {
 	}
 
 	fmt.Println(sum)
+	yu_main()
 }
